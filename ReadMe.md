@@ -93,8 +93,8 @@ Detailed setup is in `deployment/step-by-step-deployment.md` :
 ---
 
 ## 📂 Project Structure
+```
 aws-cloudfront-s3-static-hosting/
-
 ├── architecture/
 │ └── AWS_CloudFront_2368.pdf
 ├── deployment/
@@ -106,7 +106,7 @@ aws-cloudfront-s3-static-hosting/
 │ └── block.html
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 📚 Learnings
